@@ -4,7 +4,7 @@ Me chamo Eduardo Manoel, desenvolvedor front-end dominando e aprendendo novas te
 <br>
 <br>
 
-<a href="https://developer.mozilla.org/"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> </a>
 <br>
 <a href="https://developer.mozilla.org/"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/> </a>
 <br>
